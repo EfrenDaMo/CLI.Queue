@@ -19,7 +19,7 @@ Feel free to fork this and modify it to you content, just give credit where cred
 
 You will need will need the clang compiler and Make.
 
-I personally run Arch so the following commands will be related to Arch, make sure to find the correct ones for your OS.
+I personally use Arch so the following commands will be related to Arch, make sure to find the correct ones for your OS.
 
 Make: 
 
@@ -36,10 +36,10 @@ $ sudo pacman -S clang
 
 Credits go out to:
 
-* [Portfolio Courses](https://github.com/portfoliocourses): I used there timer code a base for the timer in the program, you can find there
-original code [here](https://github.com/portfoliocourses/c-example-code/blob/main/countdown_timer.c)
+* [Portfolio Courses](https://github.com/portfoliocourses): I used their timer code as a base for the timer in the program, you can find their
+original code [here](https://github.com/portfoliocourses/c-example-code/blob/main/countdown_timer.c).
 
-* To this random chic who keeps listen to me ramble on and on about these weird ideas I come up with
+* To this random chic who keeps listening to me ramble on and on about these weird ideas I come up with.
 
-* Pending
+* Pending.
 
